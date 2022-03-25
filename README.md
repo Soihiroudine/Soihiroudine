@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cazers
-- 👀 I’m interested in networks and the langage of programing.
-- 🌱 I’m currently learning the langage C
+- 👀 I’m interested in networks and the languages of programing.
+- 🌱 I’m currently learning the language C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
