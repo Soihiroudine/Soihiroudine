@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cazers
+- 👋 Hi, I’m @Soihiroudine
 - 👀 I’m interested in networks and the languages of programing.
-- 🌱 I’m currently learning the language C
+- 🌱 I’m currently learning the language Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
