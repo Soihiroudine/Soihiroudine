@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Soihiroudine
 - 👀 I’m interested in system, networks, data and the languages of programing.
-- 🌱 I’m currently learning the language Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the language Java and Ocaml.
 
 <!---
 Cazers/Cazers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
