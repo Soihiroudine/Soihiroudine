@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soihiroudine
 - 👀 I’m interested in system, networking and languages of programing. 
-- 🌱 This year i will learn more about web developpement with the langage `JavaScript`. I will go beyond this langage with the framework `node.js` and `React`.
+- 🌱 This year i will learn more about web developpement with the langage `JavaScript`. I will go beyond with the framework `node.js` and `React`.
 
 - Thank you !
 
