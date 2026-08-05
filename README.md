@@ -169,7 +169,7 @@ Supervision
 <img src="https://img.shields.io/badge/GitHub-soihiroudine-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://yt.linkedin.com/in/soihiroudine-moussa-a0b790223" target="_blanc">
+<a href="https://yt.linkedin.com/in/soihiroudine-moussa-a0b790223" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Soihiroudine-blue?style=for-the-badge&logo=linkedin">
 </a>
 
