@@ -13,7 +13,7 @@ J'aime comprendre les technologies, expérimenter de nouvelles idées
 et transformer des concepts en projets concrets.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Développement+logiciel;Infrastructure+numérique;Automatisation;Exploration+technologique;Apprentissage+continu"/>
+![https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Développement+logiciel;Infrastructure+numérique;Automatisation;Exploration+technologique;Apprentissage+continu](https://github-stats-extended.vercel.app/api/?username=soihiroudine&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 </div>
 
@@ -78,31 +78,20 @@ Expérimentation autour des systèmes modernes.
 # 📊 Mon activité numérique
 
 <div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=soihiroudine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-alt="Statistiques GitHub de Soihiroudine"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=soihiroudine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-alt="Langages les plus utilisés par Soihiroudine"
-/>
-
-</td>
-
-</tr>
-</table>
-
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=soihiroudine"
+  />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=soihiroudine&layout=compact&langs_count=8&card_width=320">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=soihiroudine&layout=compact&langs_count=8&card_width=320"
+  />
+</a>
 </div>
 
 ---
