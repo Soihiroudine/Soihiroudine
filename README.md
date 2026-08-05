@@ -139,11 +139,11 @@ Supervision
   </tr>
   <tr>
     <td>☑</td>
-    <td>Cloud</td>
-  </tr>
-    <tr>
-    <td>☑</td>
     <td>Automatisation</td>
+  </tr>
+  <tr>
+    <td>☐</td>
+    <td>Cloud</td>
   </tr>
   <tr>
     <td>☐</td>
