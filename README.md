@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Soihiroudine&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+![https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Développement+logiciel;Infrastructure+numérique;Automatisation;Exploration+technologique;Apprentissage+continu](https://github-stats-extended.vercel.app/api/?username=soihiroudine&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 <br>
 
@@ -13,7 +13,6 @@ J'aime comprendre les technologies, expérimenter de nouvelles idées
 et transformer des concepts en projets concrets.
 </p>
 
-![https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Développement+logiciel;Infrastructure+numérique;Automatisation;Exploration+technologique;Apprentissage+continu](https://github-stats-extended.vercel.app/api/?username=soihiroudine&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 </div>
 
