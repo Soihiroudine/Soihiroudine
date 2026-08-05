@@ -75,6 +75,38 @@ Expérimentation autour des systèmes modernes.
 
 ---
 
+# 📊 Mon activité numérique
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=soihiroudine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+alt="Statistiques GitHub de Soihiroudine"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=soihiroudine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Langages les plus utilisés par Soihiroudine"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 # 🛠️ Boîte à outils
 
 <div align="center">
