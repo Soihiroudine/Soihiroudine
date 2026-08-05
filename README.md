@@ -161,16 +161,6 @@ Supervision
 
 ---
 
-# 🐍 Activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soihiroudine&theme=tokyo-night"/>
-
-</div>
-
----
-
 # 📫 Contact
 
 <div align="center">
