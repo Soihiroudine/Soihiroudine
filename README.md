@@ -36,7 +36,7 @@ Explorer  →  Comprendre  →  Construire  →  Partager
 
 # 🧩 Domaines d'exploration
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -76,7 +76,6 @@ Expérimentation autour des systèmes modernes.
 ---
 
 # 📊 Mon activité numérique
-
 <div align="center">
 <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
   <img
@@ -126,19 +125,39 @@ Supervision
 
 # 📚 Actuellement en exploration
 
-```
-┌───────────────────────────────┐
-│ Learning Queue                 │
-├───────────────────────────────┤
-│ ☑ Développement logiciel       │
-│ ☑ Infrastructure               │
-│ ☑ Automatisation               │
-│ ☐ Cloud                        │
-│ ☐ DevOps                       │
-│ ☐ Cybersécurité                │
-│ ☐ Nouvelles architectures      │
-└───────────────────────────────┘
-```
+<table align="center">
+  <tr>
+    <th colspan="2">Learning Queue</th>
+  </tr>
+  <tr>
+    <td>☑</td>
+    <td>Développement logiciel</td>
+  </tr>
+  <tr>
+    <td>☑</td>
+    <td>Infrastructure</td>
+  </tr>
+  <tr>
+    <td>☑</td>
+    <td>Cloud</td>
+  </tr>
+    <tr>
+    <td>☑</td>
+    <td>Automatisation</td>
+  </tr>
+  <tr>
+    <td>☐</td>
+    <td>DevOps</td>
+  </tr>
+  <tr>
+    <td>☐</td>
+    <td>Cybersécurité</td>
+  </tr>
+  <tr>
+    <td>☐</td>
+    <td>Nouvelles architectures</td>
+  </tr>
+</table>
 
 ---
 
