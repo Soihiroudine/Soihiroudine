@@ -6,7 +6,7 @@
 
 # 👋 Bienvenue sur mon espace numérique
 
-### 💻 Développeur · Explorateur technologique · Créateur de solutions
+### 💻 Développeur · Explorateur technologique · Créateur de solutions ·Administrateur
 
 <p>
 J'aime comprendre les technologies, expérimenter de nouvelles idées
